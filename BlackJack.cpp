@@ -328,7 +328,7 @@ int play(void)
 	return 3;
 }
 
-int main(void)
+/*int main(void)
 {
 	char again;
   
@@ -346,4 +346,4 @@ int main(void)
 	}
   
 	return 0;
-}
+}*/
